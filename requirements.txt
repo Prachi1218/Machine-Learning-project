@@ -5,5 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
-src.exception
+dill
 #-e .
